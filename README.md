@@ -16,6 +16,22 @@ Exploratory Data Analysis (EDA) of 5,000 ecommerce transactions spanning October
 - **Period:** October 2023 - September 2025 (October 2025 excluded from monthly trend - incomplete data, only 3 days)
 - **Features:** 14 columns including Order ID, Category, Region, Sales, Profit, Payment Mode
 
+## Screenshots
+
+![Total Sales by Category](Ecommerce_Sales_Analysis/screenshots/sales_by_category.png)
+
+
+![Monthly Sales Trend](Ecommerce_Sales_Analysis/screenshots/monthly_sales_trend.png)
+
+
+![Total Profit by Region](Ecommerce_Sales_Analysis/screenshots/profit_by_region.png)
+
+
+![Total Sales by Payment Mode](Ecommerce_Sales_Analysis/screenshots/sales_by_payment_mode.png)
+
+
+![Top 10 Most Profitable Products](Ecommerce_Sales_Analysis/screenshots/top_10_profitable_products.png)
+
 ## Key Findings
 - **Home Decor** is the top-selling category, narrowly ahead of Furniture and Clothing
 - **May 2025** was the best performing month
